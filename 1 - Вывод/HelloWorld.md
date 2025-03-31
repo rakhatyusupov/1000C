@@ -1,0 +1,2 @@
+- #include is a preprocessor command that loads the header file stdio.h.
+- stdio.h is a header file that contains scanf() and printf() functions for input and output respectively.
